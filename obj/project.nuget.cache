@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "bPymcUPKSf03TOZW1xLBZayiruo/bR6sXPHqW7v63Xsq8JGPj4AtaX62V1xftLYpkQKTEuTn7YyfzzVhCZK4pg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\cdrex\\Desktop\\Projects\\C#\\EncryptorDecryptor\\EncryptorDecryptor\\EncryptorDecryptor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cdrex\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\cdrex\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

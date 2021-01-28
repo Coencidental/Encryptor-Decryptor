@@ -1,0 +1,9 @@
+C:\Users\cdrex\Desktop\Projects\C#\EncryptorDecryptor\EncryptorDecryptor\bin\Debug\netstandard2.0\EncryptorDecryptor.deps.json
+C:\Users\cdrex\Desktop\Projects\C#\EncryptorDecryptor\EncryptorDecryptor\bin\Debug\netstandard2.0\EncryptorDecryptor.dll
+C:\Users\cdrex\Desktop\Projects\C#\EncryptorDecryptor\EncryptorDecryptor\bin\Debug\netstandard2.0\EncryptorDecryptor.pdb
+C:\Users\cdrex\Desktop\Projects\C#\EncryptorDecryptor\EncryptorDecryptor\obj\Debug\netstandard2.0\EncryptorDecryptor.csprojAssemblyReference.cache
+C:\Users\cdrex\Desktop\Projects\C#\EncryptorDecryptor\EncryptorDecryptor\obj\Debug\netstandard2.0\EncryptorDecryptor.AssemblyInfoInputs.cache
+C:\Users\cdrex\Desktop\Projects\C#\EncryptorDecryptor\EncryptorDecryptor\obj\Debug\netstandard2.0\EncryptorDecryptor.AssemblyInfo.cs
+C:\Users\cdrex\Desktop\Projects\C#\EncryptorDecryptor\EncryptorDecryptor\obj\Debug\netstandard2.0\EncryptorDecryptor.csproj.CoreCompileInputs.cache
+C:\Users\cdrex\Desktop\Projects\C#\EncryptorDecryptor\EncryptorDecryptor\obj\Debug\netstandard2.0\EncryptorDecryptor.dll
+C:\Users\cdrex\Desktop\Projects\C#\EncryptorDecryptor\EncryptorDecryptor\obj\Debug\netstandard2.0\EncryptorDecryptor.pdb
